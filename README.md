@@ -8,7 +8,7 @@
 docker-compose up -d
 
 # 访问calibre页面，下载书籍
-http://ip:8080/
+http://ip:81
 
 # 访问nginx
 http://ip:80

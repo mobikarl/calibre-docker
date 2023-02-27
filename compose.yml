@@ -10,7 +10,7 @@ services:
     volumes:
       - data:/config
     ports:
-      - 8080:8080
+      - 81:8080
       - 8081:8081
   nginx:
     image: nginx
